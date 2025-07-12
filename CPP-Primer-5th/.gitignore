@@ -2,6 +2,8 @@
 build/
 cmake-build-*/
 out/
+obj/
+bin/
 x64/
 Debug/
 Release/
@@ -13,6 +15,17 @@ Release/
 *.suo
 *.vcxproj.user
 *.sln.docstates
+
+# Project files (optional - you might want to keep these)
+*.csproj
+*.sln
+
+# NuGet and build cache
+project.assets.json
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+*.csproj.nuget.g.*
 
 # Compiled files
 *.exe
