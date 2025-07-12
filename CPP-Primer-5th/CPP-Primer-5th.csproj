@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <RootNamespace>CPP_Primer_5th</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="chapter02\" />
+      <Folder Include="chapter03\" />
+      <Folder Include="chapter04\" />
+      <Folder Include="chapter05\" />
+      <Folder Include="chapter06\" />
+      <Folder Include="chapter07\" />
+      <Folder Include="chapter08\" />
+      <Folder Include="chapter09\" />
+      <Folder Include="chapter10\" />
+      <Folder Include="chapter11\" />
+      <Folder Include="chapter12\" />
+      <Folder Include="chapter13\" />
+      <Folder Include="chapter14\" />
+      <Folder Include="chapter15\" />
+      <Folder Include="chapter16\" />
+      <Folder Include="chapter17\" />
+      <Folder Include="chapter18\" />
+      <Folder Include="chapter19\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ClCompile Include="chapter01\hello_world.cpp" />
+    </ItemGroup>
+
+</Project>
