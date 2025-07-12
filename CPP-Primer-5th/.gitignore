@@ -1,0 +1,30 @@
+﻿# Build directories
+build/
+cmake-build-*/
+out/
+x64/
+Debug/
+Release/
+
+# IDE files
+.idea/
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.map
+*.exp
+
+# OS files
+.DS_Store
+Thumbs.db
